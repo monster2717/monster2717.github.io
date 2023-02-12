@@ -2,3 +2,5 @@
 
 
 hi
+
+theme: minima
